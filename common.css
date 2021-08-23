@@ -1,0 +1,4 @@
+body,div,object,input,embed,iframe,table,td,tr {padding:0; margin:0;}
+.none {display:none;}
+.block {display:block;}
+.pa {position:absolute;}
